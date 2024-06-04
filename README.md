@@ -420,6 +420,11 @@ Addressing these issues in software engineering is crucial for building a fair a
 •	Ethical design and development practices help ensure fairness and inclusiveness.
 •	Ongoing education and training enable software engineers to be more conscious of bias and discrimination issues.
 
+Refrences
+Geeksforgeeks,2024
+Moldstud, 2018
+www.thalesgroup.com
+
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
